@@ -271,3 +271,11 @@ export default Componente
         color: white;
     }
     ```
+    
+    ## Abrir proyecto en navegador
+    
+    Ejecutamos este comando en una terminar ubicados en la raiz del proyecto.
+    
+    ```bash
+    npm run dev
+    ```
